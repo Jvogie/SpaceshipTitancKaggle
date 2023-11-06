@@ -43,4 +43,4 @@ The Keras tuner section is commented out in the code. This part of the code was 
 ## Left Over Thoughts
 
 I was mainly focused on trying to make a neural network so I spent the vast majority of my time working on that and didn't mess around too much with the XGB,
-XGBRF, or RF models. Kinda funny thought that both XGB models still managedd to beat the NN model. 
+XGBRF, or RF models.
